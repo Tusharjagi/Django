@@ -1,3 +1,3 @@
 # Django
-UnderStanding Backend
-Learning Django
+- UnderStanding Backend
+- Learning Django
