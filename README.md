@@ -1,2 +1,3 @@
 # Django
-Learning Django
+- Learning Django
+- Understanding Backend
